@@ -1,4 +1,4 @@
-Adroit
+Adroit	[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Adroit-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1211)
 ======
 
 Adroit is a smart way to develop android applications. 
